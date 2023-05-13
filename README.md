@@ -1,2 +1,2 @@
 # Monkey Mart
-Playable Monkey Mart at [httpsumneo.github.io](https://umneo.github.io/)
+Playable Monkey Mart at [umneo.github.io](https://umneo.github.io/)
